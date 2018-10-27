@@ -1,1 +1,2 @@
 hello world.first attempt in git.
+git is nice.
